@@ -1,0 +1,7 @@
+[
+  {
+    "id": "app.hello.message",
+    "defaultMessage": "Hello",
+    "filepath": "./src/App.js"
+  }
+]
